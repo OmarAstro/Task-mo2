@@ -36,6 +36,11 @@
     flex-wrap: wrap;
   }
 }
+@media only screen and (min-width: 300px) and (max-width: 576px) {
+  .box-side-view1 {
+    flex-wrap: wrap;
+  }
+}
 .box-image-side-view1 {
   width: 300px;
   padding: 16px;
